@@ -20,7 +20,7 @@ We apply various machine learning models to predict income level based on person
 
 ## 🚀 Try the App
 
-👉 [Click Here to Use the App](YOUR_DEPLOYMENT_LINK)
+👉 [Click Here to Use the App](https://incomedgav3huvnnduhyccx4vtgh.streamlit.app/)
 
 ---
 
